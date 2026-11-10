@@ -1,0 +1,3 @@
+- insert:
+    - id: mail-widget
+      name: dsh-plugin-mail-widget
